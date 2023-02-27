@@ -1,8 +1,4 @@
 driver.findelementBy.id
 driver.findelementBy.class
-driver.findelementBy.name
-driver.findelementBy.tagname
-driver.findelementBy.linktext
-driver.findelementBy.partialLinktext
-driver.findelementBy.css2
-driver.findelementBy.xpath1
+driver.manage().window().maximize();
+driver.manage().timeouts().implicitlywait(Duration.ofSeconds());
