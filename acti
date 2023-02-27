@@ -4,5 +4,5 @@ driver.findelementBy.name
 driver.findelementBy.tagname
 driver.findelementBy.linktext
 driver.findelementBy.partialLinktext
-driver.findelementBy.css
-driver.findelementBy.xpath
+driver.findelementBy.css2
+driver.findelementBy.xpath1
