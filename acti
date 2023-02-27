@@ -1,4 +1,4 @@
 driver.findelementBy.id
 driver.findelementBy.class
 driver.manage().window().maximize();
-driver.manage().timeouts().implicitlywait(Duration.ofSeconds());
+driver.manage().timeouts().implicitlywait(Duration.ofSeconds(10));
